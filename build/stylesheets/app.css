@@ -3796,3 +3796,65 @@ table.hover tr:nth-of-type(even):hover {
 
 .long-delay {
   animation-delay: 700ms !important; }
+
+body {
+  font-family: 'Metrophobic', Arial, serif;
+  font-weight: 400; }
+
+h3 {
+  color: #FE2EC8;
+  font-size: 20px; }
+
+#nombre {
+  font-size: 10px;
+  color: #BDBDBD; }
+
+.header {
+  margin-top: 20px;
+  margin-bottom: 20px; }
+
+.botonrosa {
+  background: #FE2EC8; }
+
+.botongris {
+  background: #E6E6E6;
+  color: #000; }
+
+.imagenpies {
+  background-image: url(../img/peus.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  width: 100%;
+  padding-top: 50px; }
+
+.padding {
+  padding-top: 100px; }
+
+.Passion {
+  color: #FE2EC8;
+  font-size: 40px; }
+
+.fondonegro {
+  background-color: #000;
+  color: #fff;
+  font-size: 10px; }
+
+.letrarosa {
+  color: #FE2EC8; }
+
+p {
+  font-size: 10px; }
+
+.facebook {
+  background: #FE2EC8;
+  color: #fff; }
+
+.twitter {
+  color: #FE2EC8; }
+
+.pinterest {
+  background: #FE2EC8;
+  color: #fff; }
+
+.rss {
+  color: #FE2EC8; }
